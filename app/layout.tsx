@@ -12,7 +12,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Mistura's Portfolio",
-  description: "Experimental portfolio breaking conventional design rules",
+  description: "Porfolio made by Mistie",
     generator: 'v0.dev'
 }
 
